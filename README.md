@@ -99,6 +99,8 @@ me.say_hi()
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abarbarapeslo&repo=Volutariado_Lacrei&theme=tokyonight" />
   <a href="https://github.com/abarbarapeslo/docker_test">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abarbarapeslo&repo=docker_test&theme=tokyonight" />
+  <a href="https://github.com/abarbarapeslo/Hackaton-Transpetro">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abarbarapeslo&repo=Hackaton-Transpetro&theme=tokyonight" />
   </a>
 </div>
 
@@ -109,6 +111,7 @@ me.say_hi()
 |---------|-----------|------|
 | [**API Consultas Médicas**](https://github.com/abarbarapeslo/Volutariado_Lacrei) | API RESTful para gerenciamento de consultas médicas | Django, PostgreSQL, Docker, AWS |
 | [**API de Gestão Escolar**](https://github.com/abarbarapeslo/docker_test) | API RESTful para Gestão Escolar| FASTApi, SQLite, Docker, GCP |
+| [**Hackathon Transpetro**](https://github.com/abarbarapeslo/Hackaton-Transpetro) | Github Pages Documentation | Docusaurus, JavaScript, HTML, CSS |
 
 ---
 
