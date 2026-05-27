@@ -26,10 +26,10 @@
 class Barbara:
     def __init__(self):
         self.name = "Bárbara Lopes"
-        self.role = "Systems Analyst | Python Developer"
+        self.role = "Systems Analyst"
         self.pronouns = "She/Her"
         self.location = "Brazil 🇧🇷"
-        self.current_focus = ["Python", "DevOps", "Cloud Computing"]
+        self.current_focus = ["Development", "DevOps", "Cloud Computing"]
     
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build something amazing together!")
