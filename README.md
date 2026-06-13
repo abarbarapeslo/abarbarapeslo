@@ -26,7 +26,7 @@
 class Barbara:
     def __init__(self):
         self.name = "Bárbara Lopes"
-        self.role = "Systems Analyst"
+        self.role = "Software Developer"
         self.pronouns = "She/Her"
         self.location = "Brazil 🇧🇷"
         self.current_focus = ["Development", "DevOps", "Cloud Computing"]
